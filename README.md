@@ -7,3 +7,5 @@ This is a beginner-level project for designing an E-commerce website using HTML,
 - Responsive design using Bootstrap CSS for optimal viewing on different devices.
 - Custom styling with core CSS to enhance the user interface.
 - Form validation using jQuery to ensure data accuracy in specific areas.
+
+### URL: https://shopping-e-commerce-demo.netlify.app/
